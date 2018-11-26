@@ -7,7 +7,7 @@ import (
 )
 
 const (
-	dbPath = "./tmp/blockdata"
+	dbPath = "/Users/akashkhosla/blockdata"
 )
 
 // Blockchain is a chain of Blocks
